@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on: Improving my data structures and algorithms skills and building a personal portfolio.<br><br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects or university hackathons.<br><br>🤝 I’m looking for help with: Understanding advanced system design concepts.<br><br>🌱 I’m currently learning: Full-stack development (MERN stack) and Cloud basics.<br><br>💬 Ask me about: C++, Python, or Machine Learning.
+🔭 I’m currently working on: Improving my data structures and algorithms skills and building a personal portfolio.<br><br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects or university hackathons.<br><br>🤝 I’m looking for help with: Understanding advanced system design concepts.<br><br>🌱 I’m currently learning: Full-stack development (MERN stack) and Cloud basics.<br><br>💬 Ask me about: C++, Python, Data Analysis or Machine Learning.
 
 
 ## 🌐 Socials:
